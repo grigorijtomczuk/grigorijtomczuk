@@ -14,9 +14,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact&theme=dark">
-		<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact&langs_count=6&theme=dark">
+		<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact&langs_count=6">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijtomczuk&layout=compact&langs_count=6">
 		<!-- ...&langs_count={1..10} -->
 	</picture>
 </a>
