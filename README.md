@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Grigory Tomchuk",
-  "version": "0.1.0",
+  "version": "19.4.12",
   "homepage": "grigorijtomczuk.github.io/portfolio",
   "devDependencies": ["coffee"]
 }
